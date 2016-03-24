@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+    <head>
+        <script src="/socket.io/socket.io.js"></script>
+        <title>Mock Websocket Server Console</title>
+    </head>
+    <body>
+        <div id="console"></div>
+        <script>
+            var socket = io();
+            socket.connect('http://127.0.0.1:12345');
+
+            var console = document.getElementById('console');
+            socket.on('log', function(message) {
+                var node = document.createTextNode(message);
+                console.appendChild(node);
+            });
+        </script>
+    </body>
+</html>

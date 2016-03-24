@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Napon Taratan</title>
+    <description>Student and Software Developer</description>
+    <link>http://napontaratan.com//</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 03 Jan 2016 13:53:56 -0800</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 13:53:56 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Vibernate 2.0</title>
+        <description>&lt;img src=&quot;img/portfolio/vibernate-1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;vibernate poster&quot;&gt;&lt;img src=&quot;img/portfolio/vibernate-2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;vibernate screenshots&quot;&gt;The Vibernate app lets you schedule your phone to automatically switch from ringtone to vibrate/silent and back again!&lt;br&gt;&lt;br&gt;Got lectures every Monday and Friday from 8-10? Simply set up a Vibernate timer and forget about interrupting class for the rest of the year! And don&#39;t worry about missing any calls. Vibernate will conveniently set your phone back to its normal ringtone right after class. This app will keep your phone quiet only when you want it to be!</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://napontaratan.com//2014/07/18/Vibernate/</link>
+        <guid isPermaLink="true">http://napontaratan.com//2014/07/18/Vibernate/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bruce Guitars</title>
+        <description>&lt;img src=&quot;img/portfolio/bruce-1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;vibernate poster&quot;&gt;&lt;img src=&quot;img/portfolio/bruce-2.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;vibernate screenshots&quot;&gt;Bruce Guitars is a local Vancouver premium boutique guitar shop created mainly to help fellow artists and musicians find their sound. This project is a redesign of the existing Bruce Guitars website as part of MyPlanet&#39;s fellowship program.&lt;br&gt;&lt;br&gt;After talking to Bruce and conducting interviews with some of his customers, we noticed a clear disconnect in Bruce&#39;s site experience and the intimate experience his customers find in-store. With this in mind, we rethought the flow of the site’s content to be more intuitive and presents Bruce&#39;s passion for his business and his customers.</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://napontaratan.com//2014/07/17/BruceGuitars/</link>
+        <guid isPermaLink="true">http://napontaratan.com//2014/07/17/BruceGuitars/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Where&#39;s The Food</title>
+        <description>&lt;img src=&quot;img/portfolio/wtf-1.png&quot; class=&quot;img-responsive img-centered&quot; alt=&quot;vibernate poster&quot;&gt;WheresTheFood is a web application that allows users to view local food vendors in Vancouver. We are using Food Vendors Data Catalogue provided by the city of Vancouver together with Google Maps API to create an easy-to-navigate map view where each marker on the map represents a food vendor location. Users can click on each marker to view more details about the food vendor as well as their hours of operation which are fetched from Yelp API.&lt;br&gt;&lt;br&gt;Each user can log into their Google Account to add and edit personal favourite food truck locations. They can also attach a short memo for each food truck for things like their orders and special deals. This information is stored and loaded the next time the user logs back in. Finally we are integrating Facebook to allow users to share their favourite food trucks with friends on Facebook.&lt;br&gt;&lt;br&gt;Given the size of the project, we decided on using BackboneJS because of it&#39;s simplicity as well as using Firebase for real-time data sync and storage.</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://napontaratan.com//2014/07/16/WheresTheFood/</link>
+        <guid isPermaLink="true">http://napontaratan.com//2014/07/16/WheresTheFood/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
